@@ -42,9 +42,9 @@ npm start
 
 ## Tech Stack
 
--React
--TypeScript
--Sass
+*React
+*TypeScript
+*Sass
 
 ## Folder Structure
 
