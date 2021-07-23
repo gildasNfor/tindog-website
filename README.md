@@ -1,7 +1,7 @@
 TinDog Starting Files
 
 
-```
+
 website
   |__public
   |__src
@@ -13,4 +13,4 @@ website
        |_index.scss
        |_package.json
        |_...others
-```
+
